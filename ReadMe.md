@@ -1,3 +1,3 @@
 # Demo 
 
-Descrioption and most used commands in git and github 
+Descrioption and most used commands in git and github!!
